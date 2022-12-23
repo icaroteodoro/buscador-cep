@@ -22,7 +22,7 @@ export function Cep(){
 
         <div className='container mt-5'>
             <div className='row form-group p-5'>  
-                <img className='w-25 mx-auto' src="MeuCEP.png" alt="Logo" />
+                <img className='w-25 mx-auto rounded-circle' src="MeuCEP.png" alt="Logo" />
             </div>
             
             <div className='row form-group p-5 border rounded-4' >
