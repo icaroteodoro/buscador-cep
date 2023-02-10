@@ -1,3 +1,3 @@
 Meu buscador de CEP feito com React e Bootstrap básico!!!
 
-Acesse em https://meucepbr.netlify.app/
+Acesse <a href="https://meucepbr.netlify.app/" target="_blank">AQUI</a>
